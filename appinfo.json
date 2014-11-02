@@ -1,0 +1,24 @@
+{
+  "uuid": "b49c4be2-83e1-45ff-9f80-4b784eefd8a4",
+  "shortName": "Pebble Tiles!",
+  "longName": "Pebble Tiles!",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/icon.png"
+      }
+    ]
+  }
+}
